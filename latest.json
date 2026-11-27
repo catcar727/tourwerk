@@ -1,11 +1,11 @@
 {
   "app": "Tourwerk",
   "package": "de.hitzler.tourwerk",
-  "version": "3.4",
-  "versionCode": 34,
-  "url": "https://raw.githubusercontent.com/catcar727/tourwerk/main/apk/tourwerk-3.4-release.apk",
-  "size": 148185,
-  "sha256": "ece50cddfd5bb8654316f13ea99bde39a8ad278261891ef9c6ac66ca850e2681",
+  "version": "3.5",
+  "versionCode": 35,
+  "url": "https://raw.githubusercontent.com/catcar727/tourwerk/main/apk/tourwerk-3.5-release.apk",
+  "size": 144089,
+  "sha256": "e89508cdc7c11611d60fd8e97daf79c6bdb90982318d89350519664fee295cfd",
   "date": "2026-11-27",
-  "notes": "Tourwerk 3.4\n- Feedback-Bereich (Einstellungen → Feedback): Art, Bereich, Bewertung, Text; Senden per Teilen, WhatsApp oder E-Mail\n- Karte-Knopf verdeckt keinen Inhalt mehr"
+  "notes": "Tourwerk 3.5\n- Feedback nur noch über das Teilen-Menü (WhatsApp/E-Mail-Auswahl entfernt)"
 }
