@@ -1,11 +1,11 @@
 {
   "app": "Tourwerk",
   "package": "de.hitzler.tourwerk",
-  "version": "3.2",
-  "versionCode": 32,
-  "url": "https://raw.githubusercontent.com/catcar727/tourwerk/main/apk/tourwerk-3.2-release.apk",
+  "version": "3.3",
+  "versionCode": 33,
+  "url": "https://raw.githubusercontent.com/catcar727/tourwerk/main/apk/tourwerk-3.3-release.apk",
   "size": 144089,
-  "sha256": "cb0c44a2f0997d585a2ba9340e0340bff4739fbbe5de6cf5f8144fc97efd708c",
+  "sha256": "b6104eb2a1eee30c136bf5b0440d701b0a71c058d372fef3ee9f6b75cbef0807",
   "date": "2026-11-27",
-  "notes": "Tourwerk 3.2\n- Aufzeichnen-Symbol: roter Ring mit weißem Punkt, pulsiert während einer Aufnahme neonrot\n- roter Hinweis-Punkt entfernt"
+  "notes": "Tourwerk 3.3\n- Teilen-Knopf an jeder Tour unter „Meine Touren“ (Reiter Teilen entfällt)\n- Touren in der Nähe: Ausweich-Server bei Overpass-Fehlern\n- Karte-Knopf verdeckt keine Schaltflächen mehr"
 }
