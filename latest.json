@@ -1,11 +1,11 @@
 {
   "app": "Tourwerk",
   "package": "de.hitzler.tourwerk",
-  "version": "3.1",
-  "versionCode": 31,
-  "url": "https://raw.githubusercontent.com/catcar727/tourwerk/main/apk/tourwerk-3.1-release.apk",
+  "version": "3.2",
+  "versionCode": 32,
+  "url": "https://raw.githubusercontent.com/catcar727/tourwerk/main/apk/tourwerk-3.2-release.apk",
   "size": 144089,
-  "sha256": "9091059e06b8569a15e6f06fd0b71cc395695f8315a28de4e9bdd3f628326181",
+  "sha256": "cb0c44a2f0997d585a2ba9340e0340bff4739fbbe5de6cf5f8144fc97efd708c",
   "date": "2026-11-27",
-  "notes": "Tourwerk 3.1\n- Aufzeichnen-Symbol jetzt rot\n- Update-Prüfung beim Öffnen der App (Einstellungen → Updates)\n- GPX-Teilen optional (Einstellungen → Teilen)"
+  "notes": "Tourwerk 3.2\n- Aufzeichnen-Symbol: roter Ring mit weißem Punkt, pulsiert während einer Aufnahme neonrot\n- roter Hinweis-Punkt entfernt"
 }
